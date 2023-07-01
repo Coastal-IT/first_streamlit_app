@@ -80,5 +80,5 @@ streamlit.stop()
 
 
 
-streamlit.write(, fruit_add)
+#streamlit.write(, fruit_add)
 
